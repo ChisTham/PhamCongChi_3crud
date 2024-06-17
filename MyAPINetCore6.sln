@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAPINetCore6", "MyAPINetCore6\MyAPINetCore6.csproj", "{4C8D62D1-AB5B-48A2-81A9-6869BE9F628F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3crud", "3crud\3crud.csproj", "{2B710759-4C49-4337-96B0-6A18C5AFF6D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C8D62D1-AB5B-48A2-81A9-6869BE9F628F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8D62D1-AB5B-48A2-81A9-6869BE9F628F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8D62D1-AB5B-48A2-81A9-6869BE9F628F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8D62D1-AB5B-48A2-81A9-6869BE9F628F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B710759-4C49-4337-96B0-6A18C5AFF6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B710759-4C49-4337-96B0-6A18C5AFF6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B710759-4C49-4337-96B0-6A18C5AFF6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B710759-4C49-4337-96B0-6A18C5AFF6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D0FA656D-E1AB-4E16-B506-40B85E7CCEEE}
+	EndGlobalSection
+EndGlobal
